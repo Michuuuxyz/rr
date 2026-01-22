@@ -47,5 +47,3 @@ Fornecer acesso rápido aos canais oficiais de denúncia de phishing de empresas
 
 ---
 
-<div align="center">
-<a href="https://secguide.pages.dev/ravenastar/" rel="noopener noreferrer" target="_blank"><img src="https://secguide.pages.dev/img/b2_secguide.png" width="500"></a>
